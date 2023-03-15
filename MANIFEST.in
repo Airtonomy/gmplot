@@ -1,2 +1,3 @@
 recursive-include gmplot *.png
 recursive-include gmplot *.py
+include requirements.txt
